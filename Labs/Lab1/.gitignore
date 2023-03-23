@@ -1,0 +1,11 @@
+/.vs/
+/obj/
+/Library/
+/Temp/
+/UserSettings/
+
+*.vsconfig
+*.csproj
+*.sln
+*.htm
+*.html
